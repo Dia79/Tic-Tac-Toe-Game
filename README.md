@@ -44,16 +44,16 @@ java TicTacToe
 - `updateScore` and `updateScoreLabel` methods handle the scoring system.
 ## **Screenshots**
 ### Initial Screen
-![App Screenshot](Screenshots/idle.png)
+![App Screenshot](Screenshot/Screenshotsidle.png)
 
 ### Player O Wins
-![App Screenshot](Screenshots/winner0.png)
+![App Screenshot](Screenshot/Screenshotswinner0.png)
 
 ### Player X Wins
-![App Screenshot](Screenshots/winnerX.png)
+![App Screenshot](Screenshot/ScreenshotswinnerX.png)
 
 ### Tie Game
-![App Screenshot](Screenshots/tie.png)
+![App Screenshot](Screenshot/Screenshottie.png)
 ## License
 
 This project is open source and available under the [MIT License](https://choosealicense.com/licenses/mit/)
